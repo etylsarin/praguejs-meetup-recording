@@ -8,6 +8,8 @@ OBS Studio is a great piece of free / open-source software for recording and str
 
 OBS setup is explained [here](./obs-configuration.md).
 
+NDI plugin for OBS can be downloaded [here](https://github.com/obs-ndi/obs-ndi).
+
 ## iMovie
 
 If you're a Mac user, you'll be familiar with iMovie. It's not the greatest tool, but it's free and gets the job done. You'll want to use iMovie (or whatever video editor your OS supports) to edit your recordings afterward. For each recording, you'll probably want to trim off empty space from the beginning and end, put in a fancy intro, etc.
